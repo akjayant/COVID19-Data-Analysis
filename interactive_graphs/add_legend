@@ -1,0 +1,24 @@
+
+/* PASTE IN STYLE
+.button {
+  background-color: #FF0000; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 150px;
+}
+        
+.button2 {background-color: #0000FF;} /* Blue */
+.button3 {background-color: #111111;}
+
+
+/*PASTE IN BODY AFTER CHANGING STATE NAME
+<a href="#" class="button">Gujarat</a><br>
+<a href="#" class="button button2">Rajasthan</a><br>
+<a href="#" class="button button3">Other</a>
