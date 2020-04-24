@@ -6,7 +6,7 @@ Download covid_19_*.html in ./interactive graph/
         may imply community transmission.
      2) State-wise analysis : to check whether there was transfer of infection from one state 
         to another due to travel or any other reasons
-## 2) Forecasting : WIP
+## Forecasting : WIP
      1) To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, SPAIN : WIP* using univariate time-series models
      2 ......
 
