@@ -13,7 +13,8 @@ Download covid_19_*.html in ./interactive graph/
         
  #### Highlight - 2 (Till 23rd April available details of ~1500 patients)
  ![State-wise analysis India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/top_8.png)
-        
+  
+  *Paired Analysis : Delhi-UP,Rajasthan-Gujarat,Maharashtra-MP, Kerala-Tamil Nadu results in ./images/ & ./interactive_graphs/
 ## Forecasting : WIP
      1) To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, SPAIN : WIP* using univariate time-series models
      2 ......
