@@ -1,5 +1,5 @@
 # COVID19 Data Analysis
-Download covid_19_*.html for interactive graph.
+Download covid_19_*.html in ./interactive graph/
 ### Data source - Incredible team of covid19india.org
 ## Cluster Analysis - 
      1) To check for patterns in sub-graphs if present in high number and longer/denser chain 
