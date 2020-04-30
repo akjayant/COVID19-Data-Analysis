@@ -1,7 +1,7 @@
 # COVID19 Data Analysis
 
 ## 1) Forecasting:
-     Used ARIMA To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, SPAIN :
+     Used ARIMA To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, BELGIUM :
      #### Highlight -  (Trained till 29rd April and forecasting for next 7 days)
      example plot - 
    ### India
