@@ -58,7 +58,7 @@ Download covid_19_*.html in ./interactive graph/
      may imply community transmission.
  #### Highlight - 1 (Till 23rd April available details of ~1500 patients)
  
-  [pattern](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/full.png)
+  ![pattern](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/full.png)
   
      2) State-wise analysis : to check whether there was transfer of infection from one state 
         to another due to travel or any other reasons
