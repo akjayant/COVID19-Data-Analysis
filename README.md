@@ -5,16 +5,16 @@
      #### Highlight -  (Trained till 29rd April and forecasting for next 7 days)
      example plot - 
    ### India
-   training - 
+   Training - 
    
    ![India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/INDIA_training.png)
    
    
-   forecasting - 
+   Forecasting - 
    
    ![India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/india_forecasting.png)
    
-   Values -
+   Forecasted Values -
    
 |Date| Confirmed|Recovered|Deaths|
 |-----|-----|------|-----|
@@ -28,13 +28,16 @@
 2020-05-07|47867.515026|14044.127166|1654.341421
 
   ### Italy
-   training - 
+   Training - 
+   
    ![Italy](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/italy_training.png)
    
-   forecasting - 
+   
+   Forecasting - 
+   
    ![Italy](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/italy_forecasting.png)
    
-   Values -
+  Forecasted Values -
 |Date| Confirmed|Recovered|Deaths|
 |-----|-----|------|-----|
 |2020-04-30|205258.280455|73475.740964|28055.244312
