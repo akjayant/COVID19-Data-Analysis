@@ -16,6 +16,14 @@ Download covid_19_*.html in ./interactive graph/
   
   *Paired Analysis : Delhi-UP,Rajasthan-Gujarat,Maharashtra-MP, Kerala-Tamil Nadu results in ./images/ & ./interactive_graphs/
 ## Forecasting : WIP
-     1) To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, SPAIN : WIP* using univariate time-series models
-     2 ......
+     1) Used ARIMA To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, SPAIN :
+     #### Highlight -  (Trained till 29rd April and forecasting for next 7 days)
+     example plot - 
+   ### India
+   training - 
+   ![India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/INDIA_training.png)
+   
+   forecasting - 
+   [India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/india_forecasting.png)
+     
 
