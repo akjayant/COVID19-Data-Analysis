@@ -6,9 +6,12 @@
      example plot - 
    ### India
    training - 
+   
    ![India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/INDIA_training.png)
    
+   
    forecasting - 
+   
    ![India](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/india_forecasting.png)
    
    Values -
