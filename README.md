@@ -1,6 +1,6 @@
 # COVID19 Data Analysis
 
-## 1) Forecasting : WIP
+## 1) Forecasting:
      Used ARIMA To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, SPAIN :
      #### Highlight -  (Trained till 29rd April and forecasting for next 7 days)
      example plot - 
@@ -24,6 +24,27 @@
 2020-05-06|45933.409976|13314.415654|1580.314252
 2020-05-07|47867.515026|14044.127166|1654.341421
 
+  ### Italy
+   training - 
+   ![Italy](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/italy_training.png)
+   
+   forecasting - 
+   ![Italy](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/italy_forecasting.png)
+   
+   Values -
+|Date| Confirmed|Recovered|Deaths|
+|-----|-----|------|-----|
+|2020-04-30|205258.280455|73475.740964|28055.244312
+|2020-05-01|206931.928058|75644.475967|28456.572283
+|2020-05-02|208569.169255|77751.112023|28815.640814
+|2020-05-03|210322.195962|79801.934184|29157.389528
+|2020-05-04|212105.918978|81798.432166|29522.746073
+|2020-05-05|213845.926064|83743.576215|29892.290301
+|2020-05-06|215446.326560|85639.661019|30243.061754
+|2020-05-07|216910.344679|87489.057069|30589.422327
+
+
+
 ## 2) Cluster Analysis - 
 Download covid_19_*.html in ./interactive graph/
 ### Data source - Incredible team of covid19india.org
@@ -31,7 +52,7 @@ Download covid_19_*.html in ./interactive graph/
      may imply community transmission.
  #### Highlight - 1 (Till 23rd April available details of ~1500 patients)
  
-  <img src='https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/full.png' width='60%>
+  [pattern](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/full.png)
   
      2) State-wise analysis : to check whether there was transfer of infection from one state 
         to another due to travel or any other reasons
