@@ -18,7 +18,7 @@
    
 *CI - (95% Confidence interval)
 
-|Date|Confirmed|Confirmed (95%) confidence interval (CI)|Recovered	|Recovered CI|Deaths|Deaths CI|
+|Date|Confirmed|Confirmed CI|Recovered	|Recovered CI|Deaths|Deaths CI|
 |---|---|---|---|---|----|---|
 |2020-04-30|34876|[34561, 35192]|9080|[8983, 9178]|1144|[1132, 1157]
 |2020-05-01|36620|[36140, 37101]|9776|[9613, 9939]|1218|[1196, 1239]
