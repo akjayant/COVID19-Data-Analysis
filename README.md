@@ -16,7 +16,7 @@
    
    Forecasted Values -
    
-
+*CI - (95% Confidence interval)
 
 |Date|Confirmed|Confirmed (95%) confidence interval (CI)|Recovered	|Recovered CI|Deaths|Deaths CI|
 |---|---|---|---|---|----|---|
@@ -45,7 +45,7 @@
    ![Italy](https://github.com/akjayant/COVID19-Data-Analysis/blob/master/images/italy_forecasting.png)
    
   Forecasted Values -
-Date|Confirmed||Confirmed (95%) confidence interval(CI)||Recovered||Recovered CI||Deaths||Deaths CI|
+Date|Confirmed|Confirmed CI|Recovered|Recovered CI|Deaths|Deaths CI|
 |---|---|---|---|---|----|---|
 |2020-04-30|205258|[204221, 206295]|73475|[72701, 74249]|28055|[27916, 28193]
 |2020-05-01|206931|[205345, 208518]|75644|[74179, 77109]|28456|[28218, 28695]
