@@ -1,6 +1,6 @@
 # COVID19 Data Analysis
 
-## 1) Forecasting:
+## 1) Short Term Forecasting (3-9 days post training) for long term SEIR Models are better :
      Used ARIMA To predict/forecast numbers of COVID19 cases in INDIA, ITALY, USA, BELGIUM :
      #### Highlight -  (Trained till 29rd April and forecasting for next 7 days)
      example plot - 
